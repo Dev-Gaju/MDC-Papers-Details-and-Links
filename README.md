@@ -3,7 +3,8 @@
 - Depthwisw convolution used here which also slow
 - If increase the size of image resolution atomatically increase width and height and not follow alpha, (beta)^2, (gama)^2 rules.
     
- ### EfficineNet V2 mitigate all the drawbacks.(Fused MBconv)
+ ### EfficineNet V2 mitigate all the drawbacks.(Fused MBconv): 
+ With progressive learning, our EfficientNetV2 significantly outperforms previous models on ImageNet and CIFAR/Cars/Flowers datasets
 ![image](https://user-images.githubusercontent.com/50872508/210134211-85e9304c-4cee-4e82-a356-c3a214a995f4.png)
 
  
